@@ -4,6 +4,7 @@ values(10001,'indra', 'E1234567');
 insert into User
 values(10002,'soumo', 'A1234568');
 
+
 INSERT INTO role (role_id, role)
 VALUES
 	(1,'ADMIN');
